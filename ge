@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>International Women Surgical Society (IWSS)</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <img src="C:\Users\SHIONA\Pictures\Screenshots/iwssimage.png" alt="IWSS Logo" class="logo">
+        <h1>International Women Surgical Society (IWSS)</h1>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#events">Events</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    
+    <main>
+        <section id="home">
+            <h2>Welcome to IWSS</h2>
+            <p>We are dedicated to advancing women in the field of surgery.</p>
+        </section>
+        
+        <section id="about">
+            <h2>About Us</h2>
+            <p>Our mission is to support and promote women surgeons worldwide.</p>
+        </section>
+        
+        <section id="events">
+            <h2>Upcoming Events</h2>
+            <ul>
+                <li>Blades over Beauty - December 2024</li>
+                <li>Cardiology Symposium - October 2024</li>
+            </ul>
+        </section>
+        
+        <section id="contact">
+            <h2>Contact Us</h2>
+ <p>For inquiries, please email us at <a href="womenssurgicalsociety@gmail.com"> womenssurgicalsociety@gmail.com</a>.</p>
+        </section>    </main>
+    
+    <footer>
+        <p>&copy; 2024 International Women Surgical Society. All rights reserved.</p>
+    </footer>
+</body>
+</html>
